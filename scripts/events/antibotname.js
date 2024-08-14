@@ -13,7 +13,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
     var { nickname } = await Threads.getData(threadID, botID);
     var nickname = nickname ? nickname : BOTNAME;
     if (logMessageData.participant_id == botID && author != botID && !ADMINBOT.includes(author) && logMessageData.nickname != nickname) {
-   api.changeNickname(`『 ${global.config.PREFIX } 』• ${(!global.config.BOTNAME) ? "BOT" : global.config.BOTNAME}`, threadID, botID) 
+   api.changeNickname(`『 ${global.config.PREFIX } 』☔︎ ${(!global.config.BOTNAME) ? "BOT" : global.config.BOTNAME}`, threadID, botID) 
         var info = await Users.getData(author);
        return api.sendMessage({ body: `[WARN] - ${info.name} - bot change protection is enabled`}, threadID);
     }  
