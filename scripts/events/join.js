@@ -12,7 +12,7 @@ const request = require('request');
 //const { join } = require('path');
 const axios = require('axios');
 const jimp = require("jimp")
-const fontlink = 'https://drive.google.com/u/0/uc?id=10XFWm9F6u2RKnuVIfwoEdlav2HhkAUIB&export=download'
+const fontlink = 'https://drive.google.com/u/0/uc?id=1NyyPdrAWQsiPWbtgRW9Zbe3ajqrOxgLe&export=download'
 let PRFX = `${global.config.PREFIX}`;
 
 module.exports.circle = async (image) => {
@@ -66,13 +66,13 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER :Mohammad Nayan 
+DEVELOPER : Ňišâň Hôššêiň Ëditz
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/www.xnxx.com169
+https://www.facebook.com/nisan.editz2005
 
-🔵WHATSAPP NUMBER: wa.me/+8801615298449
+🔵WHATSAPP NUMBER: wa.me/+8801775602198
 
 🟢SUPPORT EMAIL: www.mdmnnm2004@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
