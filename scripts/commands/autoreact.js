@@ -5,7 +5,7 @@ module.exports = {
 config: {
   name: "autoreact",
   version: "1.0.0",
-  permission: 0,
+  permission: 2,
   credits: "nayan",
   description: "",
   prefix: 'awto', 
