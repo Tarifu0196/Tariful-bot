@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```Nisan Developer```</br>
 age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/profile.php?id=61556196058001).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [NISAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nisan Developer```
 
 ## CONFIG AND CUSTOM
 
@@ -29,11 +29,11 @@ approve list
 ```
 add box from approved list 
 ```txt
-approve box 4834812366643016
+approve box 61556196058001
 ```
 remove box from approved list 
 ```txt
-approve remove 4834812366643016
+approve remove 61556196058001
 ```
 
 ## Login System
