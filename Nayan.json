@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "nisan-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61556196058001",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61556196058001",
     ""
   ],
   "OWNER": ["100000959749712"], 
