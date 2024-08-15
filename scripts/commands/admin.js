@@ -4,7 +4,7 @@ module.exports.config = {
   permission: 0,
   credits: "Nayan",
   description: "control admin lists",
-  prefix: false,
+  prefix: true,
   category: "admin",
   usages: "admin [add/remove] [uid]",
   cooldowns: 5,
