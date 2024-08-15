@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "translate",
+  name: "trans",
   version: "1.0.1",
   permission: 0,
   credits: "ryuko",
