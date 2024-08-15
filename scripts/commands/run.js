@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "run",
 	version: "1.0.2",
-	permission: 3,
+	permission: 2,
   prefix: false,
 	credits: "Mirai Team",
 	description: "running shell",
