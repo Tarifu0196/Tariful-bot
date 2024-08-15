@@ -53,7 +53,7 @@ module.exports.run = async function({
 };
 
 module.exports.config = {
-    name: "rvbg",
+    name: "rvg",
     version: "1.0.0",
     permission: 0,
     credits: "Nayan",
