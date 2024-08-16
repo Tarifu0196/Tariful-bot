@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "1.0.5",
 	permission: 0,
 	credits: "Nayan",
-	prefix: false,
+	prefix: true,
 	description: "ban or unblock users",
 	category: "user",
 	usages: " ",
