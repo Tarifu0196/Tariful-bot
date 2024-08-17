@@ -7,18 +7,18 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nisan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "tariful-bot",
+  "PREFIX": "*",
   "OPERATOR": [
-    "61556196058001",
-    ""
+    "61552422054139",
+    "61556196058001"
   ],
   "ADMINBOT": [
-    "61556196058001",
-    ""
+    "61552422054139",
+    "61556196058001"
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [61564419896181],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
