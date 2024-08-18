@@ -1,1 +1,28 @@
 
+{
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "BOTNAME": "𝐓𝐀𝐑𝐈𝐅𝐔𝐋-𝐁 𝐎 𝐓",
+  "PREFIX": "*",
+  "OPERATOR": [
+    "61552422054139",
+    "61556196058001"
+  ],
+  "ADMINBOT": [
+    "61552422054139",
+    "61556196058001"
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [61564419896181],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
